@@ -266,13 +266,9 @@ Key thing to note from many things google does for security are
 
 ## Google Cloud Big Data Solutions
 
-- Dataproc -- adohoc hadoop clusters 
+- Dataproc - adhoc hadoop clusters
 - DataProc - steam or batch processing
-- BigQuery - datawarehouse
-
-### This to learn
-- lOad balancer
-- vpns
+- BigQuery - data warehouse
 
 ### routing tables
 
